@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "mr.A",
+    "phone": "0909999321",
+    "grant": "Admin"
+  },
+  {
+    "id": 2,
+    "name": "mr.B",
+    "phone": "0909999322",
+    "grant": "Moderator"
+  },
+  {
+    "id": 3,
+    "name": "mr.C",
+    "phone": "0909999323",
+    "grant": "User"
+  },
+  {
+    "id": 4,
+    "name": "mr.D",
+    "phone": "0909999324",
+    "grant": "User"
+  },
+  {
+    "id": 5,
+    "name": "mr.E",
+    "phone": "0909999325",
+    "grant": "User"
+  },
+  {
+    "id": 6,
+    "name": "mr.F",
+    "phone": "0909999326",
+    "grant": "User"
+  }
+]
